@@ -5,10 +5,11 @@ Thank you for your interest in contributing to the Ágora ontology catalog! This
 ## Contribution Requirements
 
 You can contribute any ontology as long as:
-
 - It is **conceptualized using Chowlk notation**.
 - It includes the required files in the appropriate formats.
 - It follows the structure described below.
+
+---
 
 ## Required Structure for Each Ontology
 
@@ -41,7 +42,7 @@ Alternatively, you can group multiple ontologies belonging to the same project o
 
 ## Ways to Contribute Ontologies
 
-Ágora is conceived as an open and collaborative ontology catalog, aiming to grow through user contributions of ontologies developed using the Chowlk notation. To support different levels of technical expertise, there are multiple ways to contribute to the `agora-ontos` GitHub repository.
+There are multiple ways to contribute to the `agora-ontos` GitHub repository.
 
 ### 1. GitHub Pull Request (for users familiar with Git)
 
@@ -56,3 +57,31 @@ This is the preferred method for users comfortable with Git and GitHub:
    - A preview image (`.jpg` or `.png`).
 5. Commit and push the changes to your fork.
 6. Open
+
+---
+
+### 2. Upload Files via GitHub Web Interface
+
+For users not familiar with Git, files can be uploaded directly via the GitHub interface:
+
+1. Navigate to the desired folder in the repository.
+2. Click on **"Add file" → "Upload files"**.
+3. Drag and drop the required files (as described above).
+4. Add a brief commit message.
+5. Submit the changes.
+
+---
+
+### 3. Submit via GitHub Issue
+
+For users who prefer not to upload files themselves:
+
+1. Open a new **issue** in the [Issues](https://github.com/oeg-upm/agora-ontos/issues) section.
+2. Title it as `New ontology contribution`.
+3. Provide:
+   - A description of the ontology.
+   - A link to download the required files.
+   - Any additional relevant details.
+
+The maintainers will assist in reviewing and integrating the ontology into the repository.
+
